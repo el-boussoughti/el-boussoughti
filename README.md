@@ -1,7 +1,7 @@
 <!-- Banner -->
 ![Mohamed's Banner](./banner.png)
 
-<!-- Owl Image (optional aesthetic) -->
+<!-- Right-side decoration image -->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
@@ -14,29 +14,28 @@
 
 <!-- Intro -->
 <p align="left">
-  👋 Welcome to my GitHub! I'm Mohamed, a passionate software development student at MIAGE Salé in Morocco.<br><br>
-  I enjoy building backend systems, APIs, and exploring how computers and programming languages work behind the scenes.<br>
+  👋 Welcome to my GitHub! I'm Mohamed from Morocco, a student at MIAGE Salé majoring in software development.<br><br>
+  I love building backend systems using Laravel and MySQL, and I'm also deeply curious about how computers and programming languages work at low levels.
 </p>
 
-- 🎓 Currently studying **Development Informatique**
-- 🌱 Learning Laravel, MySQL, Java, OOP, System Design, and more
-- 💡 Interested in how compilers, operating systems, and terminals are built
-- 🚀 Working on academic and personal backend projects
-- 🧠 Improving my English and French alongside my coding skills
-- 🎯 Goal: Become a Full Stack Developer with strong fundamentals
-- 💻 Visit my [Portfolio](https://elboussoughti.me) *(if available)*
+- 🎓 Student at **MIAGE Salé** — Specializing in Software Development  
+- 🌱 Currently learning: **Laravel**, **Java**, **MySQL**, and **System Concepts**  
+- 💻 Exploring how to build: **Compilers**, **Terminals**, and **Text Editors**  
+- 🌐 Improving my **English** and **French** alongside coding  
+- 💡 Always curious — always learning  
+- 🔗 Visit my [Portfolio](https://elboussoughti.me) *(if available)*
 
 ---
 
 <!-- Profile Views -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=elboussoughti&label=Profile%20views&color=0E7FC0&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=el-boussoughti&label=Profile%20views&color=0E7FC0&style=for-the-badge" />
 </p>
 
 ---
 
 <!-- Skills Animation -->
-<h2 align="center">🛠 Tech Stack & Skills</h2>
+<h2 align="center">🛠 Tech Stack & Tools</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -46,14 +45,14 @@
 ---
 
 <!-- Learning -->
-<h3 align="left">📚 Current Learning</h3>
+<h3 align="left">📚 What I'm Learning Now</h3>
 <ul align="left">
-  <li>Advanced backend using Laravel and RESTful APIs</li>
-  <li>Java and Object-Oriented Programming concepts</li>
-  <li>Database design using MySQL</li>
-  <li>Frontend basics with HTML, CSS, and Blade templates</li>
-  <li>Understanding OS fundamentals and compiler basics</li>
-  <li>Practicing version control with Git and GitHub</li>
+  <li>Laravel & REST APIs for backend development</li>
+  <li>Java and Object-Oriented Programming</li>
+  <li>MySQL for database design and queries</li>
+  <li>Understanding how programming languages are built</li>
+  <li>How terminals, text editors, and compilers work</li>
+  <li>Version control with Git and GitHub</li>
 </ul>
 
 <br clear="both" />
@@ -66,13 +65,13 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/elboussoughti">
-        <img src="https://github-readme-stats.vercel.app/api?username=elboussoughti&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+      <a href="https://github.com/el-boussoughti">
+        <img src="https://github-readme-stats.vercel.app/api?username=el-boussoughti&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/elboussoughti">
-        <img src="https://streak-stats.demolab.com?user=elboussoughti&theme=tokyonight&hide_border=false" alt="Streak Stats" />
+      <a href="https://github.com/el-boussoughti">
+        <img src="https://streak-stats.demolab.com?user=el-boussoughti&theme=tokyonight&hide_border=false" alt="Streak Stats" />
       </a>
     </td>
   </tr>
@@ -83,7 +82,7 @@
 <!-- Contributions -->
 <h2 align="center">📈 Contribution Graph</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elboussoughti&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=el-boussoughti&theme=tokyo-night" />
 </div>
 
 ---
@@ -91,7 +90,7 @@
 <!-- Quote Card -->
 <h2 align="center">🌟 Thought of the Day</h2>
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=Strive%20not%20to%20be%20a%20success,%20but%20rather%20to%20be%20of%20value.&theme=dark" />
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Stay%20hungry,%20stay%20foolish.&theme=dark" />
 </p>
 
 ---
@@ -112,7 +111,7 @@
   <img src="./instagram.png" width="50" height="50" alt="Instagram" />
 </a>
 
-<a href="https://github.com/elboussoughti" target="_blank">
+<a href="https://github.com/el-boussoughti" target="_blank">
   <img src="./github.png" width="50" height="50" alt="GitHub" />
 </a>
 
