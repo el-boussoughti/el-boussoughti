@@ -66,12 +66,12 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/el-boussoughti">
-        <img src="https://github-readme-stats.vercel.app/api?username=el-boussoughti&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=el-boussoughti&show_icons=true&hide_border=false&title_color=4ea0f7&icon_color=4ea0f7&text_color=ffffff&bg_color=0a2540" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/el-boussoughti">
-        <img src="https://streak-stats.demolab.com?user=el-boussoughti&theme=tokyonight&hide_border=false" alt="Streak Stats" />
+        <img src="https://streak-stats.demolab.com?user=el-boussoughti&theme=default&hide_border=false&background=0a2540&currStreakLabel=4ea0f7&sideLabels=4ea0f7&sideNums=ffffff&dates=ffffff&fire=4ea0f7&ring=4ea0f7" />
       </a>
     </td>
   </tr>
@@ -82,7 +82,7 @@
 <!-- Contributions -->
 <h2 align="center">📈 Contribution Graph</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=el-boussoughti&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=el-boussoughti&bg_color=0a2540&color=4ea0f7&line=4ea0f7&point=ffffff&area=true&hide_border=false" />
 </div>
 
 ---
@@ -90,7 +90,7 @@
 <!-- Quote Card -->
 <h2 align="center">🌟 Thought of the Day</h2>
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Stay%20hungry,%20stay%20foolish.&theme=dark" />
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=0a2540&accent_color=4ea0f7&author_color=4ea0f7&quote_color=ffffff" />
 </p>
 
 ---
@@ -124,6 +124,9 @@
 ---
 
 <!-- Footer Wave -->
+<img src="https://raw.githubusercontent.com/el-boussoughti/el-boussoughti/output/snake.svg" alt="Snake animation" />
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
